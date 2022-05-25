@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Desenvolvimento Backend NodeJs, TypeScript, SQL, APIs
 - 🎓 I'm studying: MBA Software Engineering
 - 💬 Ask me about: JavaScript, NodeJs, HTML, CSS, Git, Vue, GitKraken, GitLab.
-- 📫 How to reach me: https://www.linkedin.com/in/eric-silva-352082185
+- 📫 How to reach me: ersmoraes@outlook.com
 
