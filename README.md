@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on @ExagoInnovation
 - 🌱 I’m currently learning: Desenvolvimento Backend NodeJs, TypeScript, SQL, APIs
-- 🎓 I'm studying: MBA Software Engineering
 - 💬 Ask me about: JavaScript, NodeJs, HTML, CSS, Git, Vue, GitKraken, GitLab.
 - 📫 How to reach me: ersmoraes@outlook.com
 
