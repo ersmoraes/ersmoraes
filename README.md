@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 💻 Junior Frontend Software Developer
+- 💻 Pleno Software Developer
 
 - 🔭 I’m currently working on @ExagoInnovation
 - 🌱 I’m currently learning: Desenvolvimento Backend NodeJs, TypeScript, SQL, APIs
