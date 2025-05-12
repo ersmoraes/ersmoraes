@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on @IT.ALL
 - 🌱 I’m currently learning: Pós em Arquitetura e Desenvolvimento Java - FIAP
-- 💬 Ask me about: JavaScript, NodeJs, HTML, CSS, Git, Vue, GitKraken, GitLab.
+- 💬 Ask me about: Java Backend Developer.
 - 📫 How to reach me: ersmoraes@outlook.com
 
